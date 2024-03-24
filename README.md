@@ -9,7 +9,7 @@ class FullStackDeveloper {
     public function __construct() {
         $this->name = "Rekkab Abdelnour";
         $this->role = "FullStack Developper";
-        $this->languageSpoken = ["eng", "fra", "jpn", "spa"];
+        $this->languageSpoken = ["eng", "fra", "jpn", "spa", "ar"];
     }
 
     public function say_hi() {
