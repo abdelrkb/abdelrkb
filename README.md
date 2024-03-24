@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @abdelrkb
-- 👀 I’m interested in Web Development, Cybersecurity and IA
-- 🌱 I’m currently learning to code in React, Node, Tailwind and more
-- 💞️ I’m looking to collaborate on Web projects
-- 📫 You can reach me by e-mail : abdelnour.rekkab@gmail.com
+<h1> Hello World 👋</h1>
 
-<!---
-abdelrkb/abdelrkb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```php
+class FullStackDeveloper {
+    public $name;
+    public $role;
+    public $languageSpoken;
+
+    public function __construct() {
+        $this->name = "Rekkab Abdelnour";
+        $this->role = "FullStack Developper";
+        $this->languageSpoken = ["eng", "fra", "jpn", "spa"];
+    }
+
+    public function say_hi() {
+        echo "Thanks for dropping by, hope you find some of my work interesting.";
+    }
+}
+$developer = new FullStackDeveloper();
+$developer->say_hi();
+```
+
+<h1> Technologies & Tools </h1>  
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
