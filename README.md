@@ -62,6 +62,3 @@ $developer->say_hi();
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 <img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" />
 </div>
-
-<h1> Statistiques </h1>  
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=abdelrkb&show_icons=true&theme=radical)
