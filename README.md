@@ -1,14 +1,14 @@
 <h1> Hello World 👋</h1>
 
 ```php
-class FullStackDeveloper {
+class DataEngineer {
     public $name;
     public $role;
     public $languageSpoken;
 
     public function __construct() {
         $this->name = "Rekkab Abdelnour";
-        $this->role = "FullStack Developper";
+        $this->role = "Data Engineer";
         $this->languageSpoken = ["eng", "fra", "jpn", "spa", "ar"];
     }
 
@@ -16,7 +16,7 @@ class FullStackDeveloper {
         echo "Thanks for dropping by, hope you find some of my work interesting.";
     }
 }
-$developer = new FullStackDeveloper();
+$developer = new DataEngineer();
 $developer->say_hi();
 ```
 
