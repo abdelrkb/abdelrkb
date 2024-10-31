@@ -1,23 +1,19 @@
 <h1> Hello World 👋</h1>
 
 ```php
-class DataEngineer {
-    public $name;
-    public $role;
-    public $languageSpoken;
+class DataEngineer:
 
-    public function __construct() {
-        $this->name = "Rekkab Abdelnour";
-        $this->role = "Data Engineer";
-        $this->languageSpoken = ["eng", "fra", "jpn", "spa", "ar"];
-    }
+    def __init__(self):
+        self.name = "Rekkab Abdelnour"
+        self.role = "Data Engineer"
+        self.language_spoken = ["eng", "fra", "jpn", "spa", "ar"]
 
-    public function say_hi() {
-        echo "Thanks for dropping by, hope you find some of my work interesting.";
-    }
-}
-$developer = new DataEngineer();
-$developer->say_hi();
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+developer = DataEngineer()
+developer.say_hi()
+
 ```
 
 <h1> Technologies & Tools </h1>  
