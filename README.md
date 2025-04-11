@@ -54,5 +54,5 @@ developer.say_hi()
           
 <h1> Currently Learning </h1>  
 <div style="display: inline-block;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
 </div>
