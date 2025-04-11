@@ -44,7 +44,7 @@ developer.say_hi()
      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 </div>     
 
-<h1> Technologies & Tools </h1>  
+<h1> Other Technologies & Tools </h1>  
 <div style="display: inline-block;">
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
