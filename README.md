@@ -1,6 +1,6 @@
-<h1> Hello World 👋</h1>
+<h1 align="center">👋 Hello, I'm Rekkab Abdelnour</h1>
 
-```php
+```python
 class DataEngineer:
 
     def __init__(self):
@@ -11,63 +11,15 @@ class DataEngineer:
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
-developer = DataEngineer()
-developer.say_hi()
-
+AR = DataEngineer()
+AR.say_hi()
 ```
-<h1> My Technical Stack </h1>  
-<div style="display: inline-block;">
-    <h2> Main Stack </h2>
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />  
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
-</div>          
+<h1> 👨‍💻 About Me </h1>
 
-<br>
-    <img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
-<br>
-<div style="display: inline-block;">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-</div>          
+I'm a passionate Data Engineer who enjoys building reliable data pipelines, creating dashboards, and delivering clean and structured data for analytics and decision-making.
 
-<br>
-<div style="display: inline-block;">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-</div>     
-<br>
+I work mainly with modern technologies in the data ecosystem — from ETL orchestration with Airflow, to data modeling with SQLAlchemy, and frontend dashboards using Angular.
 
-<div style="display: inline-block;">
-     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-</div>     
-
-<h1> Other Technologies & Tools </h1>  
-<div style="display: inline-block;">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />   
-    <img width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-
-</div>
-<br>
-<div style="display: inline-block;">
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-          
-</div>    
-
-<br>
-
-<div style="display: inline-block;">
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-
-</div>   
+<h1>  🧰 Technical Stack </h1>
+<h2> 🚀 Main Stakc </h2>
+<div style="display: inline-block;"> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="NestJS" /> </div> <br> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" title="Apache Airflow" />
