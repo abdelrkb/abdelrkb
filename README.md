@@ -17,8 +17,10 @@ developer.say_hi()
 ```
 <h1> My Technical Stack </h1>  
 <div style="display: inline-block;">
+    <h2> Main Stack </h2>
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />  
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
 </div>          
 
 <br>
@@ -69,8 +71,3 @@ developer.say_hi()
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 
 </div>   
-          
-<h1> Currently Learning </h1>  
-<div style="display: inline-block;">
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />          
-</div>
