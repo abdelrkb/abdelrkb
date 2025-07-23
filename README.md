@@ -14,6 +14,15 @@ class DataEngineer:
 AR = DataEngineer()
 AR.say_hi()
 ```
+## 📑 Table of Contents
+
+- [👨‍💻 About Me](#-about-me)
+- [🧰 Technical Stack](#-technical-stack)
+- [🛠 Other Technologies & Tools](#-other-technologies--tools)
+- [🚀 Notable Projects](#-notable-projects)
+- [📊 GitHub Stats](#-github-stats)
+- [📬 Contact](#-contact)
+- 
 <h1> 👨‍💻 About Me </h1>
 
 I'm a passionate Data Engineer who enjoys building reliable data pipelines, creating dashboards, and delivering clean and structured data for analytics and decision-making.
