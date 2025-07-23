@@ -57,7 +57,7 @@ I work mainly with modern technologies in the data ecosystem — from ETL orches
 ## 📬 Contact
 📫 Email: rekkab.abdelnour@gmail.com
 
-💼 LinkedIn
+💼 <a href="https://www.linkedin.com/in/abdelnour-rekkab-58741b266/">LinkedIn </a>
 
-🌐 Portfolio 
+🌐 <a href="https://abdelrkb.github.io/portfolio/">Portfolio </a>
 
