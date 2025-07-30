@@ -22,7 +22,6 @@ AR.say_hi()
 - [🚀 Notable Projects](#-notable-projects)
 - [📊 GitHub Stats](#-github-stats)
 - [📬 Contact](#-contact)
-- 
 
 ## 👨‍💻 About Me 
 
