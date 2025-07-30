@@ -66,6 +66,10 @@ I work mainly with modern technologies in the data ecosystem — from ETL orches
   Web application built with **Angular** and **NestJS** to monitor **Airflow DAGs**, data pipeline statuses, and environment health.  
   Developed in a **professional context** for supervising data integration workflows across multiple **fire and rescue service centers**.
 
+- ♻️ **[Green Circle](https://github.com/ChamsedineAmouche/Green-Circle)**  
+  Web application developed in a **university context** to manage a circular economy system for physical assets such as **furniture, IT equipment**, and other reusable objects.  
+  The platform allows users to declare, transfer, and reuse items between departments, promoting **sustainability** and reducing waste.
+
 
 
 <br><br>
