@@ -14,17 +14,14 @@
 
 ### 📊 Data Science & Analysis
 <div style="display: inline-block;"> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="Jupyter" /> </div>
-<br>
 
 ### 🗄️ Databases
 ![Data](https://skillicons.dev/icons?i=postgresql,mysql,mangodb)
 
-<br>
 
 ### 🐳 DevOps & Orchestration 
 ![Devops](https://skillicons.dev/icons?i=docker,kubernetes)
 
-<br>
 
 ### 🛠 Other Technologies & Tools
 ![other](https://skillicons.dev/icons?i=php,js,react)
@@ -32,7 +29,7 @@
 ![other-2](https://skillicons.dev/icons?i=php,java,c,c++)
  <br>
  ![git-other](https://skillicons.dev/icons?i=bash,github,gitlab,linux)
-<br><br>
+<br>
 
 ## 🚀 Notable Projects
 
