@@ -3,7 +3,6 @@
 ## 📑 Table of Contents
 
 - [🧰 Technical Stack](#-technical-stack)
-- [🛠 Other Technologies & Tools](#-other-technologies--tools)
 - [🚀 Notable Projects](#-notable-projects)
 - [📊 GitHub Stats](#-github-stats)
 - [📬 Contact](#-contact)
@@ -27,7 +26,7 @@
 
 <br>
 
-## 🛠 Other Technologies & Tools
+### 🛠 Other Technologies & Tools
 ![other](https://skillicons.dev/icons?i=php,js,react)
 <br> 
 ![other-2](https://skillicons.dev/icons?i=php,java,c,c++)
@@ -41,6 +40,12 @@
   Web application built with **Angular** and **NestJS** to monitor **Airflow DAGs**, data pipeline statuses, and environment health.  
   Developed in a **professional context** for supervising data integration workflows across multiple **fire and rescue service centers**.
 
+- 📊 **[Covid-19 Dashboard](https://github.com/abdelrkb/DataProject)**  
+  Dasbboard made with **plotly and dash** on the evolution of Covid-19 in France (data based on datagouv.fr)
+
+- 💠**[Raytracer](https://github.com/abdelrkb/Raytracer)**
+ Implementation of a **Raytracer** in Python
+  
 - ♻️ **[Green Circle](https://github.com/ChamsedineAmouche/Green-Circle)**  
   Web application developed in a **university context** to manage a circular economy system for physical assets such as **furniture, IT equipment**, and other reusable objects.  
   The platform allows users to declare, transfer, and reuse items between departments, promoting **sustainability** and reducing waste.
