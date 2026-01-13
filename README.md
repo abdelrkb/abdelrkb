@@ -10,7 +10,7 @@
 
 ## 🧰 Technical Stack 
 ### 🚀 Main Stack
-([https://skillicons.dev/icons?i=java,go,rust,php,js,ts,html,css,electron,docker,netlify,mysql,postgresql](https://skillicons.dev/icons?i=python,ts,nestjs,angular))
+![My Skills](https://skillicons.dev/icons?i=python,ts,nestjs,angular)
 <br>
 
 ### 📊 Data Science & Analysis
@@ -18,23 +18,21 @@
 <br>
 
 ### 🗄️ Databases
+![Data](https://skillicons.dev/icons?i=postgresql,mysql,mangodb)
 
 <br>
 
 ### 🐳 DevOps & Orchestration 
-<div style="display: inline-block;"> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" /> </div>
+![Devops](https://skillicons.dev/icons?i=docker,kubernetes)
+
 <br>
 
 ## 🛠 Other Technologies & Tools
-<div style="display: inline-block;"> 
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" /> 
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" />
-</div> <br> 
-    <div style="display: inline-block;"> 
-        <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" />
-        <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" />
-    </div> <br>
-    <div style="display: inline-block;"> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" title="GitLab" /> </div>
+![other](https://skillicons.dev/icons?i=php,js,react)
+<br> 
+![other-2](https://skillicons.dev/icons?i=php,java,c,c++)
+ <br>
+ ![git-other](https://skillicons.dev/icons?i=bash,github,gitlab,linux)
 <br><br>
 
 ## 🚀 Notable Projects
